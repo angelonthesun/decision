@@ -1,4 +1,4 @@
 product_name,catagory,f1,f2,f3
-"cloud sql",relational,	SQL, "lift and shift",scale		
+"cloud sql",relational,SQL,"lift and shift",scale
 "spanner",relational,horizontal,scaling,RDBMS
 "big table",non-relational,scale,latency,iops
