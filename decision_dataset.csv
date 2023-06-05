@@ -1,4 +1,7 @@
-product_name,catagory,f1,f2,f3
-"cloud sql",relational,SQL,"lift and shift",scale
-"spanner",relational,horizontal,scaling,RDBMS
-"big table",non-relational,scale,latency,iops
+product_name,catagory,db_type,structured data,use case
+"""cloud sql""",db,relational,yes,eCommerce
+"""spanner""",db,relational,yes,no
+"""big table""",db,non-relational,no,ad-tech
+"""big query""",db,data warehouse,yes,big data
+"""cloud firestore""",db,non-relational,yes,user data
+"""cloud datastore""",storage,object,no,images
