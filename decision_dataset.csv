@@ -1,1 +1,4 @@
-product_name,catagory,db_type,game_type,location,deployment_type,label
+product_name,catagory,f1,f2,f3
+"cloud sql",relational,	SQL		
+"spanner",	relational,	horizontal, scaling,	RDBMS,	HA
+"big table",	non-relational,	large scale,	low latency,	high iops
